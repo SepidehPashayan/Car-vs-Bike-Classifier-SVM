@@ -24,9 +24,8 @@ A compact machine learning project that classifies grayscale images as either **
 ```
 Car-vs-Bike-Classifier-SVM/
 ├── SVM.ipynb          # Main notebook: preprocessing, training, evaluation
-├── PROJECT.pdf         # Full project report
-├── PROJECT.pptx        # Presentation slides
-└── README.md           # This file
+└── PROJECT.pdf         # Full project report
+
 ```
 
 > 📦 The dataset (`archive.zip`, ~103 MB) is not included in this repo due to GitHub's file size limit. Download it from [Car vs Bike Classification Dataset (Kaggle)](https://www.kaggle.com/datasets/utkarshsaxenadn/car-vs-bike-classification-dataset), extract it, and place the resulting `Car-Bike-Dataset` folder next to `SVM.ipynb`.
