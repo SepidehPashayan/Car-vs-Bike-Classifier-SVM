@@ -24,7 +24,8 @@ A compact machine learning project that classifies grayscale images as either **
 ```
 Car-vs-Bike-Classifier-SVM/
 ├── SVM.ipynb          # Main notebook: preprocessing, training, evaluation
-└── PROJECT.pdf         # Full project report
+├── PROJECT.pdf         # Full project report
+└── README.md           # This file
 
 ```
 
